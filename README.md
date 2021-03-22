@@ -9,7 +9,7 @@ Random Forest
 ![Screen Shot 2021-03-22 at 12 11 40 PM](https://user-images.githubusercontent.com/69011929/112045550-36c7e000-8b08-11eb-8449-8252ff2c15b6.png)
 
 Decision Tree
-![DT](https://user-images.githubusercontent.com/69011929/112045914-a1791b80-8b08-11eb-82b7-c4fb7dc8e82a.png)
+
 
 
 https://www.kaggle.com/nasa/kepler-exoplanet-search-results
