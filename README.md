@@ -3,5 +3,8 @@ Can we determine planet habitability? Can we train computers to determine habita
 
 https://github.com/jaredhazlett/exoplanet-habitability-ML/blob/main/images/NN.png
 
+![NN](https://user-images.githubusercontent.com/69011929/112043921-6c6bc980-8b06-11eb-868e-48e16c3be623.png)
+
+
 https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 Special thanks to Aleksey Bilogur (https://www.kaggle.com/residentmario) for scraping the data and making this project possible. 
