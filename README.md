@@ -9,6 +9,7 @@ Random Forest
 ![Screen Shot 2021-03-22 at 12 11 40 PM](https://user-images.githubusercontent.com/69011929/112045550-36c7e000-8b08-11eb-8449-8252ff2c15b6.png)
 
 Decision Tree
+![DT](https://user-images.githubusercontent.com/69011929/112046233-016fc200-8b09-11eb-9077-9aa1440e11f7.png)
 
 
 
